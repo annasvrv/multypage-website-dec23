@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "The history of Sri Lanka",
+      "datetime": "Dec 23, 2023 1:22:08 PM",
+      "body": "The island was divided into numerous kingdoms over the following centuries, intermittently (between CE 993–1077) united under Chola rule."
+    },
+    {
+      "id": 5,
+      "title": "Christmas song",
+      "datetime": "Dec 23, 2023 1:12:23 PM",
+      "body": "xmas time"
+    }
+  ]
+}
